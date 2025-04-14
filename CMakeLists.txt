@@ -4,4 +4,4 @@ project(notvm)
 
 include_directories(include)
 
-add_subdirectory(Test)
+add_subdirectory(Example)

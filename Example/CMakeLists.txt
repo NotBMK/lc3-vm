@@ -1,4 +1,4 @@
-set(TARGET "test")
+set(TARGET "example")
 
 include_directories(include)
 
